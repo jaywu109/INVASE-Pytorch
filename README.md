@@ -1,6 +1,6 @@
 # VideoVAE
 
-A pytorch implementation of [INVASE](https://openreview.net/forum?id=BJg_roAcK7)
+A pytorch implementation of [INVASE: Instance-wise Variable Selection](https://openreview.net/forum?id=BJg_roAcK7)
 
 Requirement
 ---
